@@ -30,3 +30,5 @@ GitHub
 > GitHub Projects로 프로젝트 업무 관리 등
 >
 > 다양한 기능들로 온라인 상에서 여러 인원의 작업 공유나 협업에 사용
+
+<https://github.com/Lma47/Lma47>
